@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.13"
-jfutils = {path = "C:/temp/jfutils-0.4.3-py3-none-any.whl"}
+jfutils = {path = "C:/temp/jfutils-0.4.4-py3-none-any.whl"}
 streamlit = "^1.44.1"
 
 
